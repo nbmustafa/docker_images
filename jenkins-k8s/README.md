@@ -29,3 +29,4 @@ You can pull it from docker hub: `docker pull elmhaidara/jenkins-alpine-agent-aw
 
 ## Jenkins-k8s-master
 docker tag nashvan/jenkins-k8s:1.0.0  nashvan/jenkins-k8s:latest
+docker push nashvan/jenkins-k8s:latest
